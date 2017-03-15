@@ -12,3 +12,7 @@ Twitter Sentiment Analyzer ( EDA SCRIPT ) </br></br>
 3. Performing EDA and Making Word Cloud </br>
 4. Developing Algorithm for classifier </br></br>
 
+<b>Plotting Word Cloud</b></br></br>
+![rplot01](https://cloud.githubusercontent.com/assets/7979139/23967299/97799816-097b-11e7-83d2-e2a2e55cc21d.png)
+
+</br> We can See Some of the Emoji's Unicode in this plot that were used by twitter users.</br>
