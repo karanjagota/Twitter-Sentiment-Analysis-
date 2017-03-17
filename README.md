@@ -5,7 +5,7 @@ Twitter Sentiment Analyzer ( EDA SCRIPT ) </br></br>
 <b>Data Information</b> : The data file is in csv format and contains 3 Coloumns and 22983 rows.</br>
 <b>X</b> : ID for tweets</br>
 <b>TweetText</b> : This contains raw text tweet.</br>
-<b>Date </b>: Date on which a tweet is tweeted.</br></br>
+<b>Date </b>: Date on which a tweet is tweeted.10th March(Pre)-11th March(Result Anounced)-12th March(Post)</br></br>
 <b>My Methodology </b>: Simple 4 step solution
 1. Scrapping Tweets from Twitter</br>
 2. Removing Noise from text.</br>
