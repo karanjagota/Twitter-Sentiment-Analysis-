@@ -18,7 +18,7 @@ Twitter Sentiment Analyzer ( EDA SCRIPT ) </br></br>
 </br></br></br>2. Most Positive Words and Negative words used by Twitter Users ( Minimum Frequency 10).
 <table>
 <td>
-<img src="https://cloud.githubusercontent.com/assets/7979139/24580227/297b6dee-1722-11e7-9136-2c9a2edef502.png" width="420" height="360" />
+<img src="https://cloud.githubusercontent.com/assets/7979139/24580390/19c1510e-1725-11e7-907d-5a77c4f36baf.png" width="420" height="360" />
 </td>
 <td>
 <img src="https://cloud.githubusercontent.com/assets/7979139/24580231/2f86247c-1722-11e7-9829-7802688979cc.png" width="420" height="360" />
