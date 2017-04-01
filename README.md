@@ -12,7 +12,16 @@ Twitter Sentiment Analyzer ( EDA SCRIPT ) </br></br>
 3. Performing EDA and Making Word Cloud </br>
 4. Developing Algorithm for classifier </br></br>
 
-<b>Plotting Word Cloud</b></br></br>
+<b>Plotting Word Cloud</b></br>
+1. We can See Some of the Emoji's Unicode in this plot that were used by twitter users.</br></br>
 ![rplot01](https://cloud.githubusercontent.com/assets/7979139/23967299/97799816-097b-11e7-83d2-e2a2e55cc21d.png)
+</br></br></br>2. Most Positive Words and Negative words used by Twitter Users ( Minimum Frequency 10).
+<table>
+<td>
+<img src="https://cloud.githubusercontent.com/assets/7979139/24580010/5741f2e2-171e-11e7-8a9c-88b7cea437c9.png" width="420" height="240" />
+</td>
+<td>
+<img src="https://cloud.githubusercontent.com/assets/7979139/24580003/4b2ed6fa-171e-11e7-917c-11c6a85400c8.png" width="420" height="240" />
+</td>
+</table>
 
-</br> We can See Some of the Emoji's Unicode in this plot that were used by twitter users.</br>
